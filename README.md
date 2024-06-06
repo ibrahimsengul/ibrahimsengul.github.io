@@ -1,1 +1,1 @@
-# hisgames.github.io
+# his.games
